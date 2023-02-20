@@ -5,8 +5,3 @@ function isEmpty(obj) {
 
   return false;
 }
-
-let schedule = {};
-console.log(isEmpty(schedule));
-schedule['8:30'] = 'get up';
-console.log(isEmpty(schedule));
