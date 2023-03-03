@@ -9,3 +9,5 @@ let rabbit = {
 };
 
 rabbit.eat();
+
+// rabbit, поскольку метод вызван именно на объекте rabbit
