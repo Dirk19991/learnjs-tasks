@@ -22,4 +22,4 @@ async function getUsers(names) {
   return results;
 }
 
-getUsers(['Dirk19991']);
+getUsers(['Dirk']);
